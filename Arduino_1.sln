@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clientSide", "Arduino_1\Ard
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "serverSide", "serverSide\serverSide.vcxproj", "{C86187D6-8CB5-4137-9EFC-A98971E544F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sdCard", "sdCard\sdCard.vcxproj", "{AEDD66D5-7615-4450-9601-BE02C57BA475}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "neopixel", "..\..\..\Arduino\neopixel\neopixel.vcxproj", "{A73365A2-FC80-4EA0-88BC-DDA7E2B1B157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +25,14 @@ Global
 		{C86187D6-8CB5-4137-9EFC-A98971E544F1}.Debug|x86.Build.0 = Debug|Win32
 		{C86187D6-8CB5-4137-9EFC-A98971E544F1}.Release|x86.ActiveCfg = Release|Win32
 		{C86187D6-8CB5-4137-9EFC-A98971E544F1}.Release|x86.Build.0 = Release|Win32
+		{AEDD66D5-7615-4450-9601-BE02C57BA475}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEDD66D5-7615-4450-9601-BE02C57BA475}.Debug|x86.Build.0 = Debug|Win32
+		{AEDD66D5-7615-4450-9601-BE02C57BA475}.Release|x86.ActiveCfg = Release|Win32
+		{AEDD66D5-7615-4450-9601-BE02C57BA475}.Release|x86.Build.0 = Release|Win32
+		{A73365A2-FC80-4EA0-88BC-DDA7E2B1B157}.Debug|x86.ActiveCfg = Debug|Win32
+		{A73365A2-FC80-4EA0-88BC-DDA7E2B1B157}.Debug|x86.Build.0 = Debug|Win32
+		{A73365A2-FC80-4EA0-88BC-DDA7E2B1B157}.Release|x86.ActiveCfg = Release|Win32
+		{A73365A2-FC80-4EA0-88BC-DDA7E2B1B157}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
